@@ -1,0 +1,22 @@
+{
+  "name": "captaincalc",
+  "version": "0.0.1",
+  "description": "Captain Skillpoint Calulator for World of Warship",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saenglert/captaincalc.git"
+  },
+  "keywords": [
+    "wows"
+  ],
+  "author": "Sascha Englert",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/saenglert/captaincalc/issues"
+  },
+  "homepage": "https://github.com/saenglert/captaincalc#readme"
+}
